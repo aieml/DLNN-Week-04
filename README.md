@@ -20,3 +20,7 @@ Please refer ```2.1 cat&dog training CNN.ipynb``` for the training of CNN for de
 [Deep Learning for Health Care](https://www.youtube.com/watch?v=vUhPwReGsnY&t=45s)
 
 [YOLO Object Detection Demonstration](https://www.youtube.com/watch?v=VOC3huqHrss)
+
+## Dataset of Cat & Dog Images
+
+[Download the Original Dataset from Microsoft](https://www.microsoft.com/en-us/download/confirmation.aspx?id=54765)
