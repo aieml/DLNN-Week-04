@@ -13,8 +13,6 @@ Please refer ```2.1 cat&dog training CNN.ipynb``` for the training of CNN for de
 
 [MIT 6.S191: Convolutional Neural Networks](https://www.youtube.com/watch?v=H-HVZJ7kGI0&t=1802s)
 
-[MIT 6.S191: Convolutional Neural Networks](https://www.youtube.com/watch?v=H-HVZJ7kGI0&t=1802s)
-
 [NVIDIA Self Driving Car Demonstration](https://www.youtube.com/watch?v=fmVWLr0X1Sk&t=1s)
 
 [Deep Learning for Health Care](https://www.youtube.com/watch?v=vUhPwReGsnY&t=45s)
