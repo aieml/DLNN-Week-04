@@ -19,6 +19,8 @@ Please refer ```2.1 cat&dog training CNN.ipynb``` for the training of CNN for de
 
 [YOLO Object Detection Demonstration](https://www.youtube.com/watch?v=VOC3huqHrss)
 
+[Neighborhood Operation (Applying the Kernel using sliding window approach) animation by Victor Powell] (http://setosa.io/ev/image-kernels/)
+
 ## Dataset of Cat & Dog Images
 
 [Download the Original Dataset from Microsoft](https://www.microsoft.com/en-us/download/confirmation.aspx?id=54765)
